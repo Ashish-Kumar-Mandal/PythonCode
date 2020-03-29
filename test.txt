@@ -1,0 +1,1 @@
+C:\Users\Ashish Kumar Mandal\AppData\Local\Programs\Python\Python38\python.exe" "F:/All Programming/10th Python Code Projects/PythonCode/file read write.py
